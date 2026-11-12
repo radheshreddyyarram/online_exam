@@ -1,0 +1,542 @@
+[
+  {
+    "question_id": "Q01",
+    "category": "Numerical reasoning",
+    "difficulty_level": "Easy",
+    "question_text": "A shop sells notebooks for ₹20 each. How much do 3 notebooks cost?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹50"
+      },
+      {
+        "key": "B",
+        "text": "₹60"
+      },
+      {
+        "key": "C",
+        "text": "₹70"
+      },
+      {
+        "key": "D",
+        "text": "₹80"
+      }
+    ],
+    "correct_answer": "B",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests basic proportional arithmetic."
+  },
+  {
+    "question_id": "Q02",
+    "category": "Numerical reasoning",
+    "difficulty_level": "Medium",
+    "question_text": "A number is multiplied by 3 and then 5 is added. The result is 26. What was the original number?",
+    "options": [
+      {
+        "key": "A",
+        "text": "5"
+      },
+      {
+        "key": "B",
+        "text": "6"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "8"
+      }
+    ],
+    "correct_answer": "C",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests reversing a two-step arithmetic process."
+  },
+  {
+    "question_id": "Q03",
+    "category": "Numerical reasoning",
+    "difficulty_level": "Medium",
+    "question_text": "A water tank is one-quarter full. After adding 30 litres, it becomes half full. What is the tank's total capacity?",
+    "options": [
+      {
+        "key": "A",
+        "text": "60 litres"
+      },
+      {
+        "key": "B",
+        "text": "90 litres"
+      },
+      {
+        "key": "C",
+        "text": "120 litres"
+      },
+      {
+        "key": "D",
+        "text": "150 litres"
+      }
+    ],
+    "correct_answer": "C",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests fractions and translating a situation into a calculation."
+  },
+  {
+    "question_id": "Q04",
+    "category": "Numerical reasoning",
+    "difficulty_level": "Hard",
+    "question_text": "A product's price is increased by 20% and then discounted by 20% from the increased price. Compared with the original price, the final price is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "The same"
+      },
+      {
+        "key": "B",
+        "text": "4% lower"
+      },
+      {
+        "key": "C",
+        "text": "4% higher"
+      },
+      {
+        "key": "D",
+        "text": "8% lower"
+      }
+    ],
+    "correct_answer": "B",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests whether the participant tracks changing percentage bases."
+  },
+  {
+    "question_id": "Q05",
+    "category": "Logical reasoning",
+    "difficulty_level": "Easy",
+    "question_text": "All members of the chess club are students. Mira is a member of the chess club. What must be true?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mira is a student"
+      },
+      {
+        "key": "B",
+        "text": "All students play chess"
+      },
+      {
+        "key": "C",
+        "text": "Mira is a teacher"
+      },
+      {
+        "key": "D",
+        "text": "No students play chess"
+      }
+    ],
+    "correct_answer": "A",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests direct deduction from stated premises."
+  },
+  {
+    "question_id": "Q06",
+    "category": "Logical reasoning",
+    "difficulty_level": "Medium",
+    "question_text": "Four people—Asha, Bala, Chen and Dev—finish a race. Asha finishes before Bala. Chen finishes after Bala. Dev finishes before Asha. Who must finish first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Asha"
+      },
+      {
+        "key": "B",
+        "text": "Bala"
+      },
+      {
+        "key": "C",
+        "text": "Chen"
+      },
+      {
+        "key": "D",
+        "text": "Dev"
+      }
+    ],
+    "correct_answer": "D",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests combining ordering constraints."
+  },
+  {
+    "question_id": "Q07",
+    "category": "Logical reasoning",
+    "difficulty_level": "Medium",
+    "question_text": "Three boxes are labelled APPLES, ORANGES and MIXED. Every label is wrong. You may take one fruit from one box without looking inside. From which labelled box should you take a fruit to identify all three boxes?",
+    "options": [
+      {
+        "key": "A",
+        "text": "APPLES"
+      },
+      {
+        "key": "B",
+        "text": "ORANGES"
+      },
+      {
+        "key": "C",
+        "text": "MIXED"
+      },
+      {
+        "key": "D",
+        "text": "Any box works"
+      }
+    ],
+    "correct_answer": "C",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests strategy under a constraint; the wrongly labelled MIXED box must be single-fruit."
+  },
+  {
+    "question_id": "Q08",
+    "category": "Logical reasoning",
+    "difficulty_level": "Hard",
+    "question_text": "A rule says: 'If a card has a vowel on one side, then it has an even number on the other side.' Four cards show A, K, 4 and 7. Which cards must be turned over to test the rule?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and 4"
+      },
+      {
+        "key": "B",
+        "text": "A and 7"
+      },
+      {
+        "key": "C",
+        "text": "K and 4"
+      },
+      {
+        "key": "D",
+        "text": "K and 7"
+      }
+    ],
+    "correct_answer": "B",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests conditional reasoning and avoiding confirmation-only checking."
+  },
+  {
+    "question_id": "Q09",
+    "category": "Pattern recognition",
+    "difficulty_level": "Easy",
+    "question_text": "What comes next in the repeating sequence? Circle, square, triangle, circle, square, ___",
+    "options": [
+      {
+        "key": "A",
+        "text": "Circle"
+      },
+      {
+        "key": "B",
+        "text": "Square"
+      },
+      {
+        "key": "C",
+        "text": "Triangle"
+      },
+      {
+        "key": "D",
+        "text": "Star"
+      }
+    ],
+    "correct_answer": "C",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests recognition of a simple repeating visual-symbol pattern."
+  },
+  {
+    "question_id": "Q10",
+    "category": "Pattern recognition",
+    "difficulty_level": "Medium",
+    "question_text": "What letter comes next? B, E, I, N, T, ___ (Continue alphabetically and wrap from Z to A.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "Z"
+      },
+      {
+        "key": "C",
+        "text": "Y"
+      },
+      {
+        "key": "D",
+        "text": "B"
+      }
+    ],
+    "correct_answer": "A",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests noticing increasing alphabetical jumps of 3, 4, 5, 6, then 7."
+  },
+  {
+    "question_id": "Q11",
+    "category": "Pattern recognition",
+    "difficulty_level": "Medium",
+    "question_text": "In each row, the second number is twice the first and the third is twice the second. What replaces the question mark? Row 1: 2, 4, 8. Row 2: 3, 6, 12. Row 3: 5, 10, ?",
+    "options": [
+      {
+        "key": "A",
+        "text": "15"
+      },
+      {
+        "key": "B",
+        "text": "18"
+      },
+      {
+        "key": "C",
+        "text": "20"
+      },
+      {
+        "key": "D",
+        "text": "25"
+      }
+    ],
+    "correct_answer": "C",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests extracting and applying a consistent grid rule."
+  },
+  {
+    "question_id": "Q12",
+    "category": "Pattern recognition",
+    "difficulty_level": "Hard",
+    "question_text": "Find the next number: 1, 2, 6, 15, 31, 56, __",
+    "options": [
+      {
+        "key": "A",
+        "text": "81"
+      },
+      {
+        "key": "B",
+        "text": "91"
+      },
+      {
+        "key": "C",
+        "text": "92"
+      },
+      {
+        "key": "D",
+        "text": "96"
+      }
+    ],
+    "correct_answer": "C",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests identifying consecutive square-number increments: +1, +4, +9, +16, +25, +36."
+  },
+  {
+    "question_id": "Q13",
+    "category": "Verbal reasoning",
+    "difficulty_level": "Easy",
+    "question_text": "Choose the word closest in meaning to RELUCTANT.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Eager"
+      },
+      {
+        "key": "B",
+        "text": "Unwilling"
+      },
+      {
+        "key": "C",
+        "text": "Certain"
+      },
+      {
+        "key": "D",
+        "text": "Careless"
+      }
+    ],
+    "correct_answer": "B",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests basic vocabulary comprehension."
+  },
+  {
+    "question_id": "Q14",
+    "category": "Verbal reasoning",
+    "difficulty_level": "Medium",
+    "question_text": "Read the statement: 'Every applicant who passed the interview received an email.' Ravi did not receive an email. Assuming the statement is true and emails are always sent as stated, what follows?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ravi passed the interview"
+      },
+      {
+        "key": "B",
+        "text": "Ravi did not pass the interview"
+      },
+      {
+        "key": "C",
+        "text": "Ravi did not apply"
+      },
+      {
+        "key": "D",
+        "text": "Ravi was interviewed twice"
+      }
+    ],
+    "correct_answer": "B",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests valid use of a conditional statement's contrapositive."
+  },
+  {
+    "question_id": "Q15",
+    "category": "Verbal reasoning",
+    "difficulty_level": "Medium",
+    "question_text": "Complete the analogy: Thermometer is to temperature as compass is to ___.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Distance"
+      },
+      {
+        "key": "B",
+        "text": "Direction"
+      },
+      {
+        "key": "C",
+        "text": "Speed"
+      },
+      {
+        "key": "D",
+        "text": "Weight"
+      }
+    ],
+    "correct_answer": "B",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests understanding of functional relationships between words."
+  },
+  {
+    "question_id": "Q16",
+    "category": "Verbal reasoning",
+    "difficulty_level": "Hard",
+    "question_text": "A notice says: 'Only registered candidates may enter the lab. Some registered candidates are visitors.' Which conclusion is guaranteed?",
+    "options": [
+      {
+        "key": "A",
+        "text": "All visitors may enter the lab"
+      },
+      {
+        "key": "B",
+        "text": "Some visitors are not registered"
+      },
+      {
+        "key": "C",
+        "text": "Anyone who enters the lab is registered"
+      },
+      {
+        "key": "D",
+        "text": "All registered candidates are visitors"
+      }
+    ],
+    "correct_answer": "C",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests careful interpretation of 'only' and avoiding unsupported conclusions."
+  },
+  {
+    "question_id": "Q17",
+    "category": "Lateral thinking",
+    "difficulty_level": "Easy",
+    "question_text": "A person enters a dark room carrying one match. In the room there is a candle, an oil lamp and a fireplace. What should the person light first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The candle"
+      },
+      {
+        "key": "B",
+        "text": "The oil lamp"
+      },
+      {
+        "key": "C",
+        "text": "The fireplace"
+      },
+      {
+        "key": "D",
+        "text": "The match"
+      }
+    ],
+    "correct_answer": "D",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests noticing the prerequisite action rather than jumping to the objects."
+  },
+  {
+    "question_id": "Q18",
+    "category": "Lateral thinking",
+    "difficulty_level": "Medium",
+    "question_text": "You are outside a room with three switches. Inside are three traditional incandescent bulbs, each controlled by one switch. You may operate the switches as you wish, but enter the room only once. Which method identifies all three matches?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Turn all switches on and enter"
+      },
+      {
+        "key": "B",
+        "text": "Turn switch 1 on for a few minutes, turn it off; turn switch 2 on; enter and use light and bulb warmth"
+      },
+      {
+        "key": "C",
+        "text": "Turn switches 1 and 2 on, then enter immediately"
+      },
+      {
+        "key": "D",
+        "text": "It is impossible"
+      }
+    ],
+    "correct_answer": "B",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests using more than one observable property: whether a bulb is lit and whether it is warm."
+  },
+  {
+    "question_id": "Q19",
+    "category": "Lateral thinking",
+    "difficulty_level": "Medium",
+    "question_text": "A delivery driver must take a fox, a chicken and a bag of grain across a river. The boat carries the driver and only one item. If left alone, the fox eats the chicken, and the chicken eats the grain. What should the driver take across first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fox"
+      },
+      {
+        "key": "B",
+        "text": "Chicken"
+      },
+      {
+        "key": "C",
+        "text": "Grain"
+      },
+      {
+        "key": "D",
+        "text": "Any item"
+      }
+    ],
+    "correct_answer": "B",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests planning around interacting constraints; the chicken must go first."
+  },
+  {
+    "question_id": "Q20",
+    "category": "Lateral thinking",
+    "difficulty_level": "Hard",
+    "question_text": "You have 8 identical-looking balls. Exactly one is heavier. Using a balance scale, what is the minimum number of weighings needed to guarantee finding the heavier ball?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "4"
+      }
+    ],
+    "correct_answer": "B",
+    "marks": 1,
+    "reasoning_skill_measured": "Tests efficient search strategy by dividing possibilities into groups."
+  }
+]

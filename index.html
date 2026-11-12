@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Human Reasoning Experiment</title><link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top"><div class="brand">HUMAN REASONING EXPERIMENT</div><div class="sub">Logic • Patterns • Decision-making</div></header>
+<main class="container">
+<section id="welcome" class="panel">
+  <h1>Reasoning & Problem-Solving Study</h1>
+  <p>This short study explores how people approach different kinds of reasoning questions. There are 20 multiple-choice questions. Your answers and time per question are used to prepare an individual report.</p>
+  <label for="pid">Participant ID</label><input id="pid" maxlength="20" placeholder="e.g. P01" autocomplete="off">
+  <div class="note">Use the anonymous ID given by the researcher. Do not enter your name, phone number or other identifying information.</div>
+  <h3>Before you begin</h3><ul><li>Answer independently without searching online or asking for help.</li><li>There is no penalty for an incorrect or skipped answer.</li><li>Work at a comfortable pace. The timer records time spent on each question.</li><li>You can move backwards and change an answer before submitting.</li><li>Try to complete the test in one sitting. Refreshing the page will reset the attempt.</li></ul>
+  <button id="startBtn" class="primary">Start experiment</button>
+</section>
+<section id="exam" class="panel hidden">
+  <div class="exam-head"><span id="counter">Question 1 of 20</span><span id="elapsed">00:00</span></div>
+  <div class="progress"><div id="progressFill"></div></div>
+  <div class="meta"><span id="category"></span><span id="difficulty"></span></div>
+  <h2 id="questionText"></h2><div id="options" class="options"></div>
+  <div class="nav"><button id="prevBtn" class="secondary">Previous</button><button id="nextBtn" class="primary">Next</button><button id="finishBtn" class="primary hidden">Finish test</button></div>
+  <p class="small" id="answeredCount"></p>
+</section>
+<section id="results" class="panel hidden">
+  <div class="no-print"><h1>Experiment completed</h1><p>Your two reports are ready. Download both files and send them to the researcher.</p></div>
+  <div id="reportContent" class="report">
+    <div class="report-title"><h1>Human Reasoning Experiment</h1><p>Individual Participant Performance Report</p></div>
+    <div id="summaryCards" class="cards"></div>
+    <h2>Category-wise performance</h2><div id="categoryTable"></div>
+    <h2>Difficulty-wise performance</h2><div id="difficultyTable"></div>
+    <h2>Question-wise response record</h2><div id="questionTable"></div>
+    <h2>Performance observations</h2><ul id="observations"></ul>
+    <p class="foot">This report describes performance on this question set. It is not a clinical or psychological assessment.</p>
+  </div>
+  <div class="download no-print"><button id="pdfBtn" class="primary">Print / Save pictorial PDF</button><button id="csvBtn" class="secondary">Download raw CSV</button></div>
+</section>
+</main>
+<footer>Static application • No account • No database • Data stays in this browser until downloaded</footer>
+<script src="app.js"></script>
+</body></html>
